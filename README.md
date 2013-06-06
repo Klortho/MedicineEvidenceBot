@@ -1,6 +1,8 @@
 MedicineEvidenceBot
 ===================
 
+Note:  I have a request in [here](http://en.wikipedia.org/wiki/Wikipedia:Bot_requests#Adding_a_template_to_the_top_of_a_list_of_talk_pages) to ask for a little bit of direction.
+
 Mediawiki bot to populate Wikipedia medicine article talk pages.
 See [this Wikiproject Medicine talk page
 discussion](http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Medicine#Bot_for_talk_page_evidence_box)
